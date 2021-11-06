@@ -1,0 +1,9 @@
+body {
+	text-align: center;
+	border: 1px solid skyblue;
+    border-collapse: collapse;
+    border-spacing: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 30px;
+}
